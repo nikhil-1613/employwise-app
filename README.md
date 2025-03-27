@@ -44,6 +44,11 @@ This React application integrates with the Reqres API to perform user management
 
 ## Deployed Version  
 The application is live at: https://employwise-app-livid.vercel.app/
+
+
+
+
+
 Credintials :
 email : eve.holt@reqres.in
 password: cityslicka
