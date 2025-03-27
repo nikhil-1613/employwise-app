@@ -31,7 +31,6 @@ This React application integrates with the Reqres API to perform user management
 ## Installation  
 
 1. Clone the repository:  
-   git clone <repository-url>
    cd employwise-app
 
 2. Install dependencies:  
